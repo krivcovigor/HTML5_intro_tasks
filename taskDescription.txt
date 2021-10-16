@@ -1,0 +1,12 @@
+TASK  
+
+In   this   homework   you   should   create   the   same   page   as   shown   in   the   picture   -  
+template.png by using HTML tags and attributes only. All relevant text (which is used  
+in the template) can be found in the file task/content.txt. Please note, that navigation  
+menu should be working.  
+  
+Write your code in “TODO” section inside index.html file.  
+
+RESTRICTIONS  
+
+     -    Using CSS is forbidden  
